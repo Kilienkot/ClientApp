@@ -232,5 +232,10 @@ namespace ClientApp
         {
 
         }
+
+        private void Login_btn_na_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

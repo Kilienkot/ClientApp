@@ -86,6 +86,11 @@ namespace ClientApp
         {
 
         }
+
+        private void типыТоваровToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

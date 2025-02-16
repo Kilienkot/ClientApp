@@ -55,10 +55,10 @@
             // 
             // SearchBtn
             // 
-            this.SearchBtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(37)))), ((int)(((byte)(72)))));
-            this.SearchBtn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(61)))), ((int)(((byte)(103)))));
+            this.SearchBtn.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.SearchBtn.FlatAppearance.BorderColor = System.Drawing.Color.RoyalBlue;
             this.SearchBtn.FlatAppearance.BorderSize = 3;
-            this.SearchBtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(61)))), ((int)(((byte)(103)))));
+            this.SearchBtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.RoyalBlue;
             this.SearchBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.SearchBtn.Font = new System.Drawing.Font("Consolas", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.SearchBtn.ForeColor = System.Drawing.Color.White;
@@ -71,10 +71,10 @@
             // 
             // sortingBtn
             // 
-            this.sortingBtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(37)))), ((int)(((byte)(72)))));
-            this.sortingBtn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(61)))), ((int)(((byte)(103)))));
+            this.sortingBtn.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.sortingBtn.FlatAppearance.BorderColor = System.Drawing.Color.RoyalBlue;
             this.sortingBtn.FlatAppearance.BorderSize = 3;
-            this.sortingBtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(61)))), ((int)(((byte)(103)))));
+            this.sortingBtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.RoyalBlue;
             this.sortingBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.sortingBtn.Font = new System.Drawing.Font("Consolas", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.sortingBtn.ForeColor = System.Drawing.Color.White;
@@ -87,10 +87,10 @@
             // 
             // Back_btn
             // 
-            this.Back_btn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(37)))), ((int)(((byte)(72)))));
-            this.Back_btn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(61)))), ((int)(((byte)(103)))));
+            this.Back_btn.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.Back_btn.FlatAppearance.BorderColor = System.Drawing.Color.RoyalBlue;
             this.Back_btn.FlatAppearance.BorderSize = 3;
-            this.Back_btn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(61)))), ((int)(((byte)(103)))));
+            this.Back_btn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.RoyalBlue;
             this.Back_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Back_btn.Font = new System.Drawing.Font("Consolas", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.Back_btn.ForeColor = System.Drawing.Color.White;
@@ -104,10 +104,10 @@
             // 
             // addBtn
             // 
-            this.addBtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(37)))), ((int)(((byte)(72)))));
-            this.addBtn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(61)))), ((int)(((byte)(103)))));
+            this.addBtn.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.addBtn.FlatAppearance.BorderColor = System.Drawing.Color.RoyalBlue;
             this.addBtn.FlatAppearance.BorderSize = 3;
-            this.addBtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(61)))), ((int)(((byte)(103)))));
+            this.addBtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.RoyalBlue;
             this.addBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.addBtn.Font = new System.Drawing.Font("Consolas", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.addBtn.ForeColor = System.Drawing.Color.White;
@@ -123,7 +123,7 @@
             // 
             this.dataGridView1.AllowUserToAddRows = false;
             this.dataGridView1.AllowUserToDeleteRows = false;
-            this.dataGridView1.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(37)))), ((int)(((byte)(72)))));
+            this.dataGridView1.BackgroundColor = System.Drawing.Color.MediumSeaGreen;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Left;
             this.dataGridView1.Location = new System.Drawing.Point(0, 0);
@@ -131,16 +131,16 @@
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(686, 442);
+            this.dataGridView1.Size = new System.Drawing.Size(686, 450);
             this.dataGridView1.TabIndex = 8;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // re_btn
             // 
-            this.re_btn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(37)))), ((int)(((byte)(72)))));
-            this.re_btn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(61)))), ((int)(((byte)(103)))));
+            this.re_btn.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.re_btn.FlatAppearance.BorderColor = System.Drawing.Color.RoyalBlue;
             this.re_btn.FlatAppearance.BorderSize = 3;
-            this.re_btn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(61)))), ((int)(((byte)(103)))));
+            this.re_btn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.RoyalBlue;
             this.re_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.re_btn.Font = new System.Drawing.Font("Consolas", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.re_btn.ForeColor = System.Drawing.Color.White;
@@ -156,8 +156,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(37)))), ((int)(((byte)(72)))));
-            this.ClientSize = new System.Drawing.Size(996, 442);
+            this.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.ClientSize = new System.Drawing.Size(998, 450);
             this.Controls.Add(this.Search_txt);
             this.Controls.Add(this.sorting_txt);
             this.Controls.Add(this.SearchBtn);
